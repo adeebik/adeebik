@@ -1,8 +1,4 @@
 # Hi there, I'm Adeeb! 👋
-
-
-📫 How to reach me: [adeeb.codes@gmail.com](mailto:adeeb.codes@gmail.com)
-
 ---
 
 ### 🛠️ My Tech Stack
