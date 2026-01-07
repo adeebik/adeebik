@@ -1,25 +1,17 @@
 # Hi there, I'm Adeeb! 👋
----
 
 ### 🛠️ My Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,postman,ts,postgres,figma," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,postman,ts,postgres,figma" />
   </a>
 </p>
-
----
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adeebik&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adeebik&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeebik&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
