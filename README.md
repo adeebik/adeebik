@@ -2,9 +2,9 @@
 
 ### 🛠️ My Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,postman,ts,postgres,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,postman,ts,postgres,figma,prisma,wordpress" />
   </a>
 </p>
 
